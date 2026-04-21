@@ -100,14 +100,14 @@ document.addEventListener('keydown', (e) => {
 
 ### 🔹 Event delegation funcionando
 
-![Delegación](assets/03-delegacion.png)
-![Delegación](assets/03-delegacion-1.png)
+![Delegación](assets/03-agregar-tarea.png)
+![Delegación](assets/03-delegacion1.png)
 ---
 
 ### 🔹 Contador de tareas actualizado
 
 ![Contador](assets/04-contador.png)
-![Contador](assets/04-contador-1.png)
+![Contador](assets/04-contador1.png)
 
 ---
 
